@@ -1,0 +1,116 @@
+{
+  "species": [
+    {
+      "name": "cat_1",
+      "mass_kg": 5.0,
+      "height_m": 0.25,
+      "attributes": [
+        "ears",
+        "eyes",
+        "paws",
+        "tail",
+        "teeth",
+        "hair",
+        "tongue"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 95,
+        "defense": 80,
+        "speed": 100
+      },
+      "individuals": [
+        {
+          "name": "Flammiaou",
+          "element": "Fire"
+        },
+        {
+          "name": "Stratocat",
+          "element": "Air"
+        },
+        {
+          "name": "Matoulot",
+          "element": "Water"
+        },
+        {
+          "name": "Chaterre",
+          "element": "Earth"
+        }
+      ]
+    },
+    {
+      "name": "mouse_1",
+      "mass_kg": 0.5,
+      "height_m": 0.1,
+      "attributes": [
+        "ears",
+        "eyes",
+        "paws",
+        "tail",
+        "teeth",
+        "hair"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 60,
+        "speed": 110
+      },
+      "individuals": [
+        {
+          "name": "Ratcendre",
+          "element": "Fire"
+        },
+        {
+          "name": "Mulovol",
+          "element": "Air"
+        },
+        {
+          "name": "Hydrouris",
+          "element": "Water"
+        },
+        {
+          "name": "Sourilex",
+          "element": "Earth"
+        }
+      ]
+    },
+    {
+      "name": "bird_1",
+      "mass_kg": 0.3,
+      "height_m": 0.15,
+      "attributes": [
+        "wings",
+        "eyes",
+        "beak",
+        "legs",
+        "tail",
+        "hair"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 55,
+        "speed": 130
+      },
+      "individuals": [
+        {
+          "name": "Hirondflamme",
+          "element": "Fire"
+        },
+        {
+          "name": "Piafoudre",
+          "element": "Air"
+        },
+        {
+          "name": "Aqualet",
+          "element": "Water"
+        },
+        {
+          "name": "Rocange",
+          "element": "Earth"
+        }
+      ]
+    }
+  ]
+}
